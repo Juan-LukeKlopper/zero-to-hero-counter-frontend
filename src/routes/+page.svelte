@@ -283,7 +283,7 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="Zero to hero counter contract frontend" content="A small and simple interface to a custom counter contract that has been deployed onto the secret network pulsar-3 testnet" />
 </svelte:head>
 
 <section>
