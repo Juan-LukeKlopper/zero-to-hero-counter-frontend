@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>To explore this website's code check it out on <a href="https://github.com/Juan-LukeKlopper/zero-to-hero-counter-frontend">Github</a></p>
 	</footer>
 </div>
 
