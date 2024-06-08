@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  sveltekit:
+    build: .
+    ports:
+      - "5173:5173"
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:3000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 5s
